@@ -89,3 +89,5 @@ This will increment the minor version (e.g., from `v1.2.3` to `v1.3.0`) and push
 
 - Credentials are handled securely through Jenkins credential store
 - Git commands use HTTPS with authentication
+
+by# Cheikh B
