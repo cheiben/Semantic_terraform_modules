@@ -1,6 +1,4 @@
-# Semantic_terraform_modules
-
-# Terraform Module Versioning Pipeline
+# Terraform Module Semantics Versioning Pipeline
 
 This repository contains a Jenkins pipeline for automating the versioning and tagging process of Terraform AWS modules.
 
